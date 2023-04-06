@@ -1,2 +1,2 @@
-# Posters
-First author posters
+# Presentations
+First author presentations
