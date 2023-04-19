@@ -1,5 +1,12 @@
 # Details
 
+### _**LSU_Discover_Day_2023.pdf**_
+
+Carter, M.*, Decker, W*., Ferdaus, R.*, George, K.*, McDonald, J., Rivers, A.*, Shoulders, B.*
+(2023). Effects of note-taking methods on learning. Poster presented at the annual Louisiana
+State University Discover Day Research Symposium, Baton Rouge, Louisiana.
+*Denotes equal contribution.
+
 ### _**Pipeline_for_Developmental_EEG_Data_An_Intro.pdf**_
 
 Decker, W (2023). A pipeline for developmental EEG data: an introduction. Invited internal
@@ -21,4 +28,4 @@ Research Conference, Lafayette, Louisiana.
 
 Decker, W., & Schneider, J.M.. (2022). Choosing and EEG System: Evaluating the Pros and
 Cons and Quality of Data Among Two Different Capping Approaches. Poster presented at the
-annual Louisiana State University Discover Day Research Symposium, Baton Rouge, Louisiana.
+annual Louisiana State University Discover Day Research Symposium, Baton Rouge, Louisian
