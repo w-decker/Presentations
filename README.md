@@ -2,7 +2,7 @@
 
 ### _**LSU_Discover_Day_2023.pdf**_
 
-Carter, M.*, Decker, W*., Ferdaus, R.*, George, K.*, McDonald, J., Rivers, A.*, Shoulders, B.*
+*Carter, M., *Decker, W., *Ferdaus, R., *George, K., McDonald, J., *Rivers, A., *Shoulders, B.
 (2023). Effects of note-taking methods on learning. Poster presented at the annual Louisiana
 State University Discover Day Research Symposium, Baton Rouge, Louisiana.
 *Denotes equal contribution.
