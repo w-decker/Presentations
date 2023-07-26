@@ -1,5 +1,11 @@
 # Details
 
+### _**decker_lightning_surf23.pdf**_
+
+Decker, W., Schneider, J. M. (2023, July). Neural signal processing for developmental data.
+Lightning talk presented at the annual LSU Summer Undergraduate Research Forum (SURF).
+Baton Rouge, Louisiana, USA.
+
 ### _**neuroimaging_and_statistical_learning.pdf**_
 
 Decker, W. (2023, April). Using neuroimaging to examine statistical learning. Invited internal talk. Louisiana State University, Baton Rouge, LA.
