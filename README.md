@@ -28,7 +28,7 @@ Decker, W., Fan, T., Haebig, E., Schneider, J. M.. (2023, March). Neural mechani
 learning through rhyme in adults. Poster presented at the Cognitive Neuroscience Society’s
 Annual Meeting, San Francisco, California.
 
-###[ _**ULL_2022.pdf**_](/ULL_2022.pdf)
+### [ _**ULL_2022.pdf**_](/ULL_2022.pdf)
 
 Decker, W., Haebig, E., Schneider, J. M.. (2022, November). Anxiety and Word Learning in College
 Students. Poster presented at the annual University of Louisiana at Lafayette Undergraduate
