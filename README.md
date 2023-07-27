@@ -1,5 +1,11 @@
 # Details
 
+### [_**decker_poster_surf23.pdf**_](/decker_poster_surf23.pdf)
+
+Decker, W., Schneider, J. M. (2023, July). Is EEG really better left alone for developmental
+datasets. Poster presented at the annual LSU Summer Undergraduate Research Forum (SURF).
+Baton Rouge, Louisiana, USA.
+
 ### [_**decker_lightning_surf23.pdf**_](/decker_lightning_surf23.pdf)
 
 Decker, W., Schneider, J. M. (2023, July). Neural signal processing for developmental data.
