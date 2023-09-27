@@ -1,5 +1,10 @@
 # Details
 
+### [_**decker_SPR_2023.pdf**_](/decker_SPR_2023.pdf)
+
+Decker, W., Schneider J. M. (2023, September). Is EEG really better left alone for developmental datasets. Poster presented at the annual meeting of the Society for Psychophysiological Research.
+New Orleans, Louisiana, USA.
+
 ### [_**decker_poster_surf23.pdf**_](/decker_poster_surf23.pdf)
 
 Decker, W., Schneider, J. M. (2023, July). Is EEG really better left alone for developmental
