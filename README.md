@@ -1,5 +1,10 @@
 # Details
 
+### [_**decker_SNL_2023.pdf**_](/decker_SNL_2023.pdf)
+
+Decker, W., Schneider J. M., Cox, C. (2023, October). The spatiotemporal architecture of auditory statistical learning. Poster presented at the annual meeting of the Society for the Neurobiology of Langauge.
+Marseille, France.s
+
 ### [_**decker_SPR_2023.pdf**_](/decker_SPR_2023.pdf)
 
 Decker, W., Schneider J. M. (2023, September). Is EEG really better left alone for developmental datasets. Poster presented at the annual meeting of the Society for Psychophysiological Research.
